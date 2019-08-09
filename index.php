@@ -9,7 +9,7 @@
 
     $contato = new Contato();
 
-    echo "Tirar / de comentários no código index.";
+    echo "Tirar / de comentários no código index";
 
     //$contato->addContato('testando@gmail.com', 'Teste');
     //$contato->addContato('fulano@gmail.com');
