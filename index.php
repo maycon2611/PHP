@@ -9,6 +9,8 @@
 
     $contato = new Contato();
 
+    echo "Tirar / de comentários no código index.";
+
     //$contato->addContato('testando@gmail.com', 'Teste');
     //$contato->addContato('fulano@gmail.com');
 
@@ -21,11 +23,11 @@
 
     //$contato->editar('Fulano', 'fulano@gmail.com');
 
-    $excluir = $contato->excluir('fulano@gmail.com');
+    // $excluir = $contato->excluir('fulano@gmail.com');
 
-    if($excluir == true) {
-        echo "Contato excluido!";
-    } else {
-        echo "Contato nao encontrado!";
-    }
+    // if($excluir == true) {
+    //     echo "Contato excluido!";
+    // } else {
+    //     echo "Contato nao encontrado!";
+    // }
 ?>
