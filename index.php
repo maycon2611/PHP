@@ -9,10 +9,10 @@
 
     $contato = new Contato();
 
-    //$contato->addContato('mayconcti98@gmail.com', 'Maycon douglas');
+    //$contato->addContato('testando@gmail.com', 'Teste');
     //$contato->addContato('fulano@gmail.com');
 
-    //$nome = $contato->getNome('mayconcti98@gmail.com');
+    //$nome = $contato->getNome('testando@gmail.com');
     //echo "Nome => ".$nome;
 
     // $lista = $contato->getAll();
